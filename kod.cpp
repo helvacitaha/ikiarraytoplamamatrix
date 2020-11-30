@@ -16,7 +16,7 @@ int main()
     for(int i=0;i<9;i++){
         std::cout<<toplamlar[i]<<" ";
         if((i+1)%3==0){
-            std::cout<<std::endl;opop
+            std::cout<<std::endl;
         }
     }
 }
